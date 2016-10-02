@@ -1,3 +1,8 @@
 print("Hello world");
 print("Hello everybody");
+tryu y rtprint("Hello everybody");
+print("Hello everybody");
+werwer;
+print("Hello world");
+print("Hello everybody");
 tryu y rt;
