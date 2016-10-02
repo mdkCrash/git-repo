@@ -1,3 +1,3 @@
 print("Hello world")
 print("Hello everybody")
-tryu y rtprint("Hello everybody")
+tryu y rtprint("Hello everybody")print("Hello everybody")werwer
